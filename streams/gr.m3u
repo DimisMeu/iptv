@@ -65,6 +65,8 @@ http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/diavatatvweb/playlist.m3u8
 #EXTINF:-1 tvg-id="DiktyoTV.gr@SD",Diktyo TV (576p)
 https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
+#EXTINF:-1 tvg-id="DipoloTV.gr",Dipolo TV (720p)
+https://channel.streams.ovh:8081/dipolotv/index.m3u8
 #EXTINF:-1 tvg-id="DipsoTV.gr@SD",Dipso TV (720p) [Not 24/7]
 https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
 #EXTINF:-1 tvg-id="EcclesiaTV.gr@SD",Ecclesia TV (1080p)
@@ -283,3 +285,4 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
 http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
 #EXTINF:-1 tvg-id="RIKSat.cy@SD",ΡΙΚ Sat (720p) [Not 24/7]
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+
